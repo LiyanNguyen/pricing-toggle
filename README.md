@@ -5,10 +5,13 @@ A Modern Design Webpage different price plans for subscription options
 This is a solution to the [Pricing component with toggle challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC).
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/50958126/162688661-fe36c4ea-6e1d-473f-ac86-a439f551eac4.png)
+![image](https://user-images.githubusercontent.com/50958126/162688700-06e4193f-6368-401f-91c9-d240cfe523ad.png)
+![image](https://user-images.githubusercontent.com/50958126/162688874-4a113dca-24f0-41b8-84ab-5fd6e9e627f9.png)
 
 ### Links
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/LiyanNguyen/pricing-toggle
+- Live Site URL: https://liyannguyen.github.io/pricing-toggle
 
 ### My Process
 - Design the Desktop Viewport first, then the Mobile viewport
