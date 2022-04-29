@@ -1,5 +1,8 @@
 # Pricing Toggle
-A Modern Design Webpage different price plans for subscription options 
+A Modern Design Webpage different price plans for subscription options
+
+**☝️ Update 29/4/2022**
+- This project has been updated to use **LESS CSS Preprocessor** 😊
 
 ### Frontend Mentor - Pricing component with toggle solution
 This is a solution to the [Pricing component with toggle challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC).
