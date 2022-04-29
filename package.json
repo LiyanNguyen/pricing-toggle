@@ -1,0 +1,24 @@
+{
+  "name": "pricing-toggle",
+  "version": "1.0.0",
+  "description": "A Modern Design Webpage different price plans for subscription options",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiyanNguyen/pricing-toggle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiyanNguyen/pricing-toggle/issues"
+  },
+  "homepage": "https://github.com/LiyanNguyen/pricing-toggle#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}

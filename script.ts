@@ -1,12 +1,13 @@
-let priceToggleButton = document.querySelector('.toggle-button');
-let whiteCircle = document.querySelector('.white-circle');
-let basicPrice = document.querySelector('.basic-card .price');
-let professionalPrice = document.querySelector('.professional-card .price');
-let masterPrice = document.querySelector('.master-card .price');
-let isMonthlyPrice = true;
-let isAnnualPrice = false;
+let priceToggleButton = document.querySelector<HTMLDivElement | any>('.toggle-button');
+let whiteCircle = document.querySelector<HTMLDivElement | any>('.white-circle');
+let basicPrice = document.querySelector<HTMLParagraphElement | any>('.basic-card .price');
+let professionalPrice = document.querySelector<HTMLParagraphElement | any>('.professional-card .price');
+let masterPrice = document.querySelector<HTMLParagraphElement | any>('.master-card .price');
+let isMonthlyPrice: boolean = true;
+let isAnnualPrice: boolean = false;
 
-priceToggleButton.onclick = () => {
+
+priceToggleButton.onclick = (): void => {
 
 	// Switch to annual pricing
 	if (isMonthlyPrice == true) {
